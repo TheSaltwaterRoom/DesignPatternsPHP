@@ -8,7 +8,7 @@
 
 ## 创建型
 
-- [工厂模式](https://github.com/TheSaltwaterRoom/DesignPatternsPHP/blob/master/FactoryMethod/index.php)
+- [工厂模式](https://github.com/TheSaltwaterRoom/DesignPatternsPHP/blob/master/FactoryMethod/Conceptual.php)
 
 
 ## 结构型
